@@ -1,6 +1,11 @@
 ﻿# padrao-singleton
 
-Implementacao isolada do padrao singleton extraida do projeto original Padroes-de-Projetos.
+Implementacao em Java do padrao Singleton.
+
+## Estrutura
+
+- `src/main/java`: implementacao do padrao
+- `src/test/java`: testes automatizados
 
 ## Como executar os testes
 
